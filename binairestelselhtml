@@ -1,0 +1,21 @@
+<!DOCTYPE html> <!--dit is mijn uitleg over het binair stelsel--> 
+<html> <!--dit is het html-element--> 
+<head> 
+    <title>Binair stelsel</title>
+    <meta charset="utf-8">
+</head>
+    <body>
+        <h3>Op deze site krijg je uitleg over binair stelsel, kleurmodellen, en.. </h3>
+
+    <br>
+    <ul>
+        <li><a href="indez.html">Home</a></li>
+        <li><a href="binairstelsel.html">Binair stelsel</a></li>
+        <li><a href="kleurmodellen.html">Kleurmodellen</a></li>
+    <ul/>
+
+
+    </body>
+</html>
+
+
