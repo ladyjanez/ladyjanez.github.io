@@ -67,7 +67,7 @@
   
   /* binair stelsel pagina*/
     #body1 {
-      background-image: url("informatica.2.jpg");
+      background-image: url("Les-1-binair-tellen.jpg");
       /** dit is de achtergrond van binairstelsel**/
   }
   #titelkop1 {
@@ -86,6 +86,7 @@
     background-color: #ffb6e3;
      padding: 50px;
      margin: 20px;
+     text-align:left;
    }
    /*  zorgt voor het roze vlak en de inleiding van het binairstelsel*/
   
@@ -96,6 +97,7 @@
      height: auto;
      width: 25%;
      float: left;
+     text-align:left;
    }
   /* dit zorgt voor het roze vlak met de tekst erin*/
   
@@ -107,7 +109,7 @@
   /** dit zorgt ervoor dat het filmpje rechts is in de binairstelsel**/
    
   #p {
-    align-items: center;
+    align-items: right;
   }
   
   /* bestandsformaten */
