@@ -11,7 +11,7 @@
   /* zorgt ervoor dat alle tekst hetzelfde is */
   
   footer {
-    background-color: #f76e97;
+    background-color: #a28ff5;
     padding: 10px;
   }
   /* opmaak van footer */
@@ -21,7 +21,7 @@
       margin: 0;
       padding: 0;
       overflow: hidden;
-      background-color: #71fa5f;
+      background-color: #e98ef5;
     }
     
     li {
