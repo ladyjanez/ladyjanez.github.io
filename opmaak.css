@@ -67,10 +67,10 @@
   
   /* binair stelsel pagina*/
     #body1 {
-      background-image: url("informatica1.jpg"
+      background-image: url("informatica1.jpg");
       /** dit is de achtergrond van binairstelsel**/
   }
-  #titelkopje1 {
+  #titelkop1 {
       color: white;
       border-color: #fab0cf;
       text-align: center;
