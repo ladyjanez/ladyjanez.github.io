@@ -11,7 +11,7 @@
   /* zorgt ervoor dat alle tekst hetzelfde is */
   
   footer {
-    background-color: #ffbdd1;
+    background-color: #ff8caf;
     padding: 10px;
   }
   /* opmaak van footer */
@@ -21,7 +21,7 @@
       margin: 0;
       padding: 0;
       overflow: hidden;
-      background-color: #b3d1ff;
+      background-color: #fff171;
     }
     
     li {
@@ -47,7 +47,7 @@
   
    #column1 {
     display: flex;
-    background-color: #fff9a9;
+    background-color: #ff7aa6;
    }
   
    #column1 div {
@@ -67,12 +67,12 @@
   
   /* binair stelsel pagina*/
     #body1 {
-      background-image: url("informatica1.jpg");
+      background-image: url("informatica1.jpg"alt ="homepage"style="width:400px;height:300px;">);
       /** dit is de achtergrond van binairstelsel**/
   }
   #titelkopje1 {
       color: white;
-      border-color: #ecbcff;
+      border-color: #fab0cf;
       text-align: center;
       border-style: solid;
       border-width: 2px;
