@@ -11,7 +11,7 @@
   /* zorgt ervoor dat alle tekst hetzelfde is */
   
   footer {
-    background-color: #ff8caf;
+    background-color: #f76e97;
     padding: 10px;
   }
   /* opmaak van footer */
@@ -21,7 +21,7 @@
       margin: 0;
       padding: 0;
       overflow: hidden;
-      background-color: #fff171;
+      background-color: #71fa5f;
     }
     
     li {
@@ -67,7 +67,7 @@
   
   /* binair stelsel pagina*/
     #body1 {
-      background-image: url("informatica1.jpg"alt ="homepage"style="width:400px;height:300px;">);
+      background-image: url("informatica1.jpg"
       /** dit is de achtergrond van binairstelsel**/
   }
   #titelkopje1 {
