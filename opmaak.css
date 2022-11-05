@@ -1,0 +1,159 @@
+.body2 {
+    font-family: "purple", monospace;
+    color: white;
+  }
+  
+  #body1 {
+    font-family: "purple", monospace;
+    color: white;
+  }
+  
+  /* zorgt ervoor dat alle tekst hetzelfde is */
+  
+  footer {
+    background-color: #ffbdd1;
+    padding: 10px;
+  }
+  /* opmaak van footer */
+  
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #b3d1ff;
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover {
+      background-color: #dca0ff;
+    }
+    /*zorgt voor het menu boven aan */
+  
+  /* Home pagina */
+  
+  
+  
+   #column1 {
+    display: flex;
+    background-color: #fff9a9;
+   }
+  
+   #column1 div {
+       align-items: center;
+       margin: 20px;
+       width: 100%;
+   }
+  
+   .col { 
+    font-family: "purple", monospace;
+    color: white;
+    border-style: solid;
+    border-width: 2px;
+    padding: 20px;
+    }
+    /* zorgt voor de 2 vlakken naast elkaar */
+  
+  /* binair stelsel pagina*/
+    #body1 {
+      background-image: url("informatica1.jpg");
+      /** dit is de achtergrond van binairstelsel**/
+  }
+  #titelkopje1 {
+      color: white;
+      border-color: #ecbcff;
+      text-align: center;
+      border-style: solid;
+      border-width: 2px;
+      border-radius: 6px;
+      padding: 40px;
+      background-color: #ffb0ca;
+  }
+  /**  zorgt voor het roze vlak en de titel van het binairstelsel **/
+  
+    #p3 {
+    background-color: #ffb6e3;
+     padding: 50px;
+     margin: 20px;
+   }
+   /*  zorgt voor het roze vlak en de inleiding van het binairstelsel*/
+  
+   #div1 {
+    background-color: #ffb1e8;
+     padding: 50px;
+     margin: 20px;
+     height: auto;
+     width: 25%;
+     float: left;
+   }
+  /* dit zorgt voor het roze vlak met de tekst erin*/
+  
+   #p6 {
+    float: right;
+    overflow: auto;
+    width: 60%;
+   }
+  /** dit zorgt ervoor dat het filmpje rechts is in de binairstelsel**/
+   
+  #p {
+    align-items: center;
+  }
+  
+  /* bestandsformaten */
+  
+  
+  #column2 {
+    display: flex;
+    background-color: #ffb9ee;
+   }
+  
+   #column2 div {
+       align-items: center;
+       margin: 20px;
+       width: 100%;
+   }
+  
+   .col2 { 
+    border-style: solid;
+    border-width: 2px;
+    padding: 20px;
+    }
+  /* zorgt voor de 2 vlakken naast elkaar */
+    
+  #column3 {
+    border-style: solid;
+    border-width: 2px;
+    padding: 20px;
+    border-color: white;
+    background-color: #8bcde3;
+  }
+  
+  #column4 {
+    display: flex;
+    background-color: #8bcde3;
+   }
+  
+   #column4 div {
+       align-items: center;
+       margin: 20px;
+       width: 100%;
+   }
+  
+   .col4 { 
+    font-family: "purple", monospace;
+    color: white;
+    border-style: solid;
+    border-width: 2px;
+    padding: 20px;
+    }
