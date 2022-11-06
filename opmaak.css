@@ -137,13 +137,13 @@
     border-style: solid;
     border-width: 2px;
     padding: 20px;
-    border-color: white;
-    background-color: #8bcde3;
+    border-color: rgb(255, 149, 220);
+    background-color: #ff95ac;
   }
   
   #column4 {
     display: flex;
-    background-color: #8bcde3;
+    background-color: #ff95ac;
    }
   
    #column4 div {
