@@ -25,7 +25,7 @@
     }
     
     li {
-      float: left;
+      float: center;
     }
     
     li a {
@@ -86,7 +86,7 @@
     background-color: #ffb6e3;
      padding: 50px;
      margin: 20px;
-     text-align:left;
+     text-align:center;
    }
    /*  zorgt voor het roze vlak en de inleiding van het binairstelsel*/
   
@@ -96,20 +96,20 @@
      margin: 20px;
      height: auto;
      width: 25%;
-     float: left;
-     text-align:left;
+     float: center;
+     text-align:center;
    }
   /* dit zorgt voor het roze vlak met de tekst erin*/
   
    #p6 {
-    float: right;
+    float: center;
     overflow: auto;
     width: 60%;
    }
   /** dit zorgt ervoor dat het filmpje rechts is in de binairstelsel**/
    
   #p {
-    align-items: right;
+    align-items: center;
   }
   
   /* bestandsformaten */
