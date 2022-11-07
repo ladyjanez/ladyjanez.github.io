@@ -66,10 +66,7 @@
     /* zorgt voor de 2 vlakken naast elkaar */
   
   /* binair stelsel pagina*/
-    #body1 {
-      background-image: url("Les-1-binair-tellen.jpg");
-      /** dit is de achtergrond van binairstelsel**/
-  }
+    
   #titelkop1 {
       color: white;
       border-color: #fab0cf;
@@ -102,7 +99,7 @@
   /* dit zorgt voor het roze vlak met de tekst erin*/
   
    #p6 {
-    float: center;
+    float: right;
     overflow: auto;
     width: 60%;
    }
