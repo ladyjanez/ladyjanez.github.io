@@ -98,15 +98,8 @@
    }
   /* dit zorgt voor het roze vlak met de tekst erin*/
   
-   #p6 {
-    float: right;
-    overflow: auto;
-    width: 60%;
-   }
-  /** dit zorgt ervoor dat het filmpje rechts is in de binairstelsel**/
-   
   #p {
-    align-items: center;
+    align-items: right;
   }
   
   /* bestandsformaten */
